@@ -97,7 +97,7 @@ The limit clause cannot be used here in the test case that two (or more) artists
 |  Lady Gaga  |    3    |
 | Katy Perry  |    4    |
 
-This submission would be incorrect as only ranks 1-4 is outputted.
+This submission would be incorrect as only ranks 1-4 are outputted.
 
 ---
 
